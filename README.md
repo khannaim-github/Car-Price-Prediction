@@ -16,8 +16,7 @@ By using 'replace()' converting symbols into NaN nulls and removing it.
 
  # Libraries : Pandas, Numpy, Sklearn 
  Data manipulation : Pandas, Numpy 
- Modeling          : Logistic Regression, Decision Tree, Random Forest, Adaptive Boosting, Naive Bayes,
- Visualization     : Matplotlib
- Evaluation        : Confusion metrics, ROC curve.
+ Visualization     : Matplotlibp
+ 
 
 
